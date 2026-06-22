@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: xing-shuchen.github.io/shuchen-mlir
   ignorePatterns:
     - private
     - templates
@@ -187,10 +187,21 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: Xing-Shuchen/shuchen-mlir
+        repoId: R_kgDOTBWfWg
+        category: General
+        categoryId: DIC_kwDOTBWfWs4C_og2
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        emitMetadata: false
+        inputPosition: bottom
+        theme: preferred_color_scheme
+        lang: en
     layout:
       position: afterBody
       priority: 10
