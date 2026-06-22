@@ -2,9 +2,10 @@
 title: Home
 ---
 
+
 # Shuchen's MLIR Notes
 
-Welcome to my knowledge base on MLIR and deep learning compiler infrastructure.
+欢迎来到书忱的 MLIR 学习笔记 Pages。
 
 ## Notes
 
@@ -16,3 +17,7 @@ Welcome to my knowledge base on MLIR and deep learning compiler infrastructure.
 此 Pages 收录我的 MLIR 学习笔记。
 
 支持评论功能，欢迎你的意见，欢迎大家一起交流讨论。
+
+## Comment
+
+_Wir müssen wissen. Wir werden wissen._
