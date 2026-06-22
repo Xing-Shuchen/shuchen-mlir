@@ -13,4 +13,6 @@ Welcome to my knowledge base on MLIR and deep learning compiler infrastructure.
 
 ## About
 
-此网站收录我的 MLIR 学习笔记。
+此 Pages 收录我的 MLIR 学习笔记。
+
+支持评论功能，欢迎你的意见，欢迎大家一起交流讨论。
